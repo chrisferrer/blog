@@ -23,6 +23,6 @@ A few other things that could be improved with this checkout process is taking a
 
 ![Email Footer Playstation Store Receipt][3]
 
-[1]: http://imgur.com/342oOE8
+[1]: http://i.imgur.com/FeGmSnZ.jpg
 [2]: http://i.imgur.com/yx1jSlM.png
 [3]: http://i.imgur.com/jywpz9V.png
