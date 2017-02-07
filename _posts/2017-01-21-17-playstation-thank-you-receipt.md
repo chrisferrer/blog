@@ -11,7 +11,8 @@ image-sm: https://unsplash.it/500/300/?image=1025
 
 My reaction when I download an app that I thought was free only to see a “thank you for your purchase” receipt in my email inbox.
 
-![MRW "I immediately regret this decion."](http://i.imgur.com/342oOE8.gifv)
+![MRW "I immediately regret this decion."](http://imgur.com/342oOE8)
+
 
 I think the gif captures my feelings exactly until I open the email in a tizzy and see the total is $0.00. Now this isn’t the end of the world by any means, however, it doesn’t provide the best product experience. The app store on Mac desktop used to ask for payment information when downloading a free app and as you can see below Playstation sends these pesky emails.
 
