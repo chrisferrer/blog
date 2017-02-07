@@ -1,0 +1,35 @@
+# Site settings
+email:
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics:
+
+# SEO settings
+title: Trophy
+description:
+url: "chrisferrer.me"
+twitter_username: verbosesilence
+default_img: 🏆
+
+# Profile settings
+name: Chris Ferrer
+profile_img: "https://instagram.fsnc1-1.fna.fbcdn.net/t51.2885-15/s480x480/e35/15877250_647679182023269_5511995241948774400_n.jpg?ig_cache_key=MTQyMDg0MjI0Nzk2ODE1Nzg0MQ%3D%3D.2"
+profile: Chris grew up in Hawaii, and now lives in chilly San Francisco. A philosopher by trade, and a product manager by day at the Mission Asset Fund. He moonlights as an ahi poke chef and can be found watching the Chelsea Football Club Saturdays and Sundays at the crack of dawn due to an unfortunate time difference from England.
+social:
+  github: https://github.com/chrisferrer
+  linkedin: https://www.linkedin.com/in/chris-ferrer
+  twitter: twitter.com/verbosesilence
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
