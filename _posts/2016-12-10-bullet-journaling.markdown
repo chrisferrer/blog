@@ -106,5 +106,5 @@ If you're still not convinced let me highlight in a buzzed fashion the TOP 5 rea
 [6]: http://www.amazon.com/Staedtler-Pigment-Sketch-Liners-308SB6P/dp/B004L87XRA/ref=sr_1_7?s=office-products&ie=UTF8&qid=1476146001&sr=1-7&keywords=Staedtler+pens
 [7]: http://jetpens.com/Uni-ball-Signo-207-Retractable-Gel-Pen-0.7-mm-Black/pd/6231
 [8]: http://bulletjournal.com/get-started/
-[9]: reddit.com/r/bulletjournal
-[10]: http://https//www.brainpickings.org/2014/01/02/how-long-it-takes-to-form-a-new-habit/
+[9]: https://www.reddit.com/r/bulletjournal/
+[10]: https://www.brainpickings.org/2014/01/02/how-long-it-takes-to-form-a-new-habit/
