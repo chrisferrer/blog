@@ -10,7 +10,7 @@ title: My Blog
 description:
 url: "chrisferrer.me"
 twitter_username: verbosesilence
-default_img: 🏆
+default_img: http://imgur.com/NenVCUZ
 
 # Profile settings
 name: Chris Ferrer
@@ -20,6 +20,7 @@ social:
   github: https://github.com/chrisferrer
   linkedin: https://www.linkedin.com/in/chris-ferrer
   twitter: https://twitter.com/verbosesilence
+  soundcloud: https://soundcloud.com/chris_ferrer
 
 # Build settings
 include: ["_categories"]
