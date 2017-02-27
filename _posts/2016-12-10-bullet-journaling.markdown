@@ -74,9 +74,9 @@ Events: A scheduled occasion e.g. Bought flight home or Marie's GraduationNotes 
 
 **5. Future Log:** Take a step back, a breath the or two and look at the year ahead - what are those big trips, milestones you hope to get to that will bubble up from your daily little wins?
 
-For more information check out [BulletJournal][8] where they walk through the methods and modules in greater detail. Also checkout  for inspiration and some jealousy.
+For more information check out [BulletJournal][8] where they walk through the methods and modules in greater detail. Also checkout [r/bulletjournaling][9] for inspiration and some jealousy.
 
-There's something invigorating about writing down your goals, revisiting those past and upcoming milestones even if they're flossing for a week straight or deploying that personal website. For more info on habit forming check out [BrainPickings][9].
+There's something invigorating about writing down your goals, revisiting those past and upcoming milestones even if they're flossing for a week straight or deploying that personal website. For more info on habit forming check out [BrainPickings][10].
 
 If you're still not convinced let me highlight in a buzzed fashion the TOP 5 reasons you should Bullet Journal
 
@@ -106,4 +106,5 @@ If you're still not convinced let me highlight in a buzzed fashion the TOP 5 rea
 [6]: http://www.amazon.com/Staedtler-Pigment-Sketch-Liners-308SB6P/dp/B004L87XRA/ref=sr_1_7?s=office-products&ie=UTF8&qid=1476146001&sr=1-7&keywords=Staedtler+pens
 [7]: http://jetpens.com/Uni-ball-Signo-207-Retractable-Gel-Pen-0.7-mm-Black/pd/6231
 [8]: http://bulletjournal.com/get-started/
-[9]: http://https//www.brainpickings.org/2014/01/02/how-long-it-takes-to-form-a-new-habit/
+[9]: reddit.com/r/bulletjournaling
+[10]: http://https//www.brainpickings.org/2014/01/02/how-long-it-takes-to-form-a-new-habit/
