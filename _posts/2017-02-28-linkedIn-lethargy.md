@@ -7,7 +7,7 @@ categories:
   - UX
 description:
 image: https://unsplash.com/@kevinjyoung?photo=-icmOdYWXuQ/2000x1200
-image-sm: ttps://unsplash.com/@kevinjyoung?photo=-icmOdYWXuQ/2500x300
+image-sm: https://unsplash.com/@kevinjyoung?photo=-icmOdYWXuQ/500x300
 ---
 LinkedIn has recently beautified their look with a clean, crisp, and metallic layout. While the new look adds class it doesn’t fix many of the issues and complaints that most users voice. Rather, it adds new confusion to the UX flow, feels even slower than before, and I still don’t know where to find the alumni finder tool.
 
@@ -21,13 +21,13 @@ Focusing on revenue steams, LinkedIn makes the majority of its revenue 58%, as o
 
 1. New Fresh Look: It emotes a calming and sophisticated experience from the flat material design they are calling Art Deco, which makes some sense with the strong lines. However, for those art history buffs, it might seem like a bit of a misnomer. The colors LinkedIn uses emphasize its business focused brand, the blue engendering trust and leadership, or at least that’s what color theory tells me. All in all, the new layout is an enhanced aesthetic experience.
 
-[LinkedIn's Old Navigation Bar][2]
+![LinkedIn's Old Navigation Bar][2]
 
 2. Grab and Go Features: LinkedIn has made many of their valuable features even more prominent and easy to pinpoint by removing the old double navigation bars and combining them into a larger banner with larger cleaner icons.
 
 LinkedIn’s also improved some of its core tools like Jobs. Jobs posts are easy to filter such as finding people in your alumni network delivering more pertinent results. Though some features have been moved to paid tiers such as years of experience/seniority.
 
-[LinkedIn's Alumni Tool][3]
+![LinkedIn's Alumni Tool][3]
 
 3. Quick Stats: The left banner showing high-level stats is a nice addition for managing who’s viewed your profile and figuring out the size of your network, which in the past was quite hard to pin down.
 
@@ -35,13 +35,13 @@ LinkedIn’s also improved some of its core tools like Jobs. Jobs posts are easy
 
 1. Old Layout Nostalgia: The old layout featured drop down menus showing the 3 or 4 most recent notification, messages or jobs just by hovering over each ones’ corresponding icon. Currently, seeing any information about these pages requires one to load each page individually. These pages load slowly with a loading bar in the middle almost taunting you.
 
-[LinkedIn's Loading Bar][4]
+![LinkedIn's Loading Bar][4]
 
 This adds a lot of friction as navigating to these pages can disrupt your job or talent search only to see an add disguised as a message, or notification about people in your network’s birthday. While this birthday feature might be helpful to reconnecting with people in your network, it feels a little too much like Facebook. In other words I would love to see the drop downs come back!
 
 2. Articles: When reading an article the navigation bar disappears. The goal, most likely, is to focus the user’s attention on the article. This is problematic when trying to navigate back to the person’s profile where you may have found the article, or if you’d like to see any page other than the homepage.
 
-[LinekedIn Article][5]
+![LinekedIn Article][5]
 
 3. Glacial: After trying LinkedIn on a few different computers and Internet connections I find it loads quite slow across the board. The upside is it’s very responsive to different screens sizes across desktop, mobile, and tablet.
 
@@ -53,8 +53,8 @@ Also, gone are the days of rearranging your experience to emphasize a specific s
 
 While copying some of the facets of Facebook might seem attractive and add some commonality across platforms, LinkedIn could do a better job of balancing the social with the professional. Additionally, there are a many benefits around job searching and talent acquisition, but common functions in the job search have become cumbersome and continue to be hard to find. Overall LinkedIn is making promising strides forward with it’s sleek albeit slow site.
 
-[1]: http://imgur.com/WjO8Dyk "LinkedIn's New Front Page"
-[2]: http://imgur.com/ujKBUos "LinkedIn's Old Navigation Bar"
-[3]: https://imgur.com/a/UTD8e "LinkedIn's Alumni Tool"
-[4]: http://imgur.com/TEV24vH "LinkedIn's Loading Bar"
-[5]: http://imgur.com/jb2V06P "LinekedIn Article"
+[1]: http://imgur.com/WjO8Dyk
+[2]: http://imgur.com/ujKBUos
+[3]: https://imgur.com/a/UTD8e
+[4]: http://imgur.com/TEV24vH
+[5]: http://imgur.com/jb2V06P
