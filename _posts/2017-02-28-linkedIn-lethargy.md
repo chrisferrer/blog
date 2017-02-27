@@ -17,7 +17,11 @@ Let’s dive into what LinkedIn has done well and what could be improved. The go
 
 Focusing on revenue steams, LinkedIn makes the majority of its revenue 58%, as of September 2016, from recruitment solutions, specifically around hiring. To enhance this revenue stream, LinkedIn has been making it easier to identify top talent and easier for job seekers to apply and discover jobs. This is a result personalizing job posts to candidates through their experience and skills through job section and on company’s pages. In addition, the feature inApply, where you use your LinkedIn profile, a resume (optional), and no pesky cover letter. This is a slamdunk for all involved as it’s easier to apply, easier to find and have people apply, and leads greater efficiency and effectiveness.  
 
+<br>
+
 ## **The Good**
+
+<br>
 
 1. New Fresh Look: It emotes a calming and sophisticated experience from the flat material design they are calling Art Deco, which makes some sense with the strong lines. However, for those art history buffs, it might seem like a bit of a misnomer. The colors LinkedIn uses emphasize its business focused brand, the blue engendering trust and leadership, or at least that’s what color theory tells me. All in all, the new layout is an enhanced aesthetic experience.
 
@@ -31,7 +35,11 @@ LinkedIn’s also improved some of its core tools like Jobs. Jobs posts are easy
 
 3. Quick Stats: The left banner showing high-level stats is a nice addition for managing who’s viewed your profile and figuring out the size of your network, which in the past was quite hard to pin down.
 
+<br>
+
 ## **What Could Be Improved**
+
+<br>
 
 1. Old Layout Nostalgia: The old layout featured drop down menus showing the 3 or 4 most recent notification, messages or jobs just by hovering over each ones’ corresponding icon. Currently, seeing any information about these pages requires one to load each page individually. These pages load slowly with a loading bar in the middle almost taunting you.
 
@@ -55,6 +63,6 @@ While copying some of the facets of Facebook might seem attractive and add some 
 
 [1]: http://i.imgur.com/WjO8Dyk.png
 [2]: http://imgur.com/ujKBUos.jpg
-[3]: https://imgur.com/a/UTD8e.png
+[3]: http://i.imgur.com/n7dR6xw.png
 [4]: http://imgur.com/TEV24vH.png
 [5]: http://imgur.com/jb2V06P.png
