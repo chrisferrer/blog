@@ -40,18 +40,17 @@ If any of these speak to your soul then grab your moleskin, a fine tip pen, your
 
 **1. Journal:** It doesn't have to be anything fancy, but some say black moleskin with grid pages is akin to acro-yoga nirvana. Some great brands to check out (a shame this blog isn't sponsored or this would be some prime product plugs):
 
-  <ol type="a">
-    <li>**[Leuchtturm][2] -** Comes with an Index, pre-written page numbers, and a date line atop each page</li>
-    &nbsp;
-    <li>**[Fabriano][3] EcoQua -** Eco-Friendly with spirals to bring you back to those good old middle school dayz</li>
-    &nbsp;
-    <li>**[Moleskin][4] -** Good Quality, nice feel, a little pricey. Maybe it's just me but I can't shake the thought that Moleskin Journals are made out of **moles**, even though they apparently aren't…</li>
-  </ol>
-
+- [Leuchtturm][2] - Comes with an Index, pre-written page numbers, and a date line atop each page
+<br>
+- [Fabriano][3] EcoQua - Eco-Friendly with spirals to bring you back to those good old middle school dayz
+<br>
+- [Moleskin][4] - Good Quality, nice feel, a little pricey. Maybe it's just me but I can't shake the thought that
+<br> Moleskin Journals are made out of **moles**, even though they apparently aren't…
+<br>
+<br>
 **2. Pens:**
-  <ol type="a">
-    <li>**[Sakura][5] Micron -** I fell in love with Sakura from an early age, and haven't wavered even after flirting with [Staedtler][6] and [Uni][7].</li>
-  </ol>
+
+ **[Sakura][5] Micron -** I fell in love with Sakura from an early age, and haven't wavered even after flirting with [Staedtler][6] and [Uni][7].
 
 <br>
 
@@ -59,22 +58,19 @@ If any of these speak to your soul then grab your moleskin, a fine tip pen, your
 <br>
 
 **1. An Index:** Your personal Table of Contents (e.g. Books, Product Management, Career Tips, etc) - you can note at which pages you mention these larger topics.
+<br>
 
-**2. Rapid Logging:** short blurbs like todos with symbols
-
-<ol type="a">
-    <li>Bullets: Short sentences that include Tasks, Events, and Notes</li>
-    &nbsp;
-    <li>Tasks: Noted as • is essentially a to-do e.g. Post new blog post. Once the tack is completed you mark it as X, if it is migrated to a future date >, or if it has been scheduled < </li>
-    &nbsp;
-    <li>Events: A scheduled occasion e.g. Bought flight home or Marie's Graduation</li>
-    &nbsp;
-    <li>Notes "-" can include ruminations, ideas, observations, etc.</li>
-  </ol>
+**2. Rapid Logging:** Short blurbs like todos with symbols
+Bullets: Short sentences that include Tasks, Events, and Notes
+Tasks: Noted as • is essentially a to-do e.g. Post new blog post. Once the tack is completed you mark it as X, if it is migrated to a future date >, or if it has been scheduled <
+Events: A scheduled occasion e.g. Bought flight home or Marie's GraduationNotes "-" can include ruminations, ideas, observations, etc.
+<br>
 
 **3. Daily Log:** From work you need to get done to how many cups of water you had to things you need to push to tomorrow
+<br>
 
 **4. Monthly Log:** Events, Goals, Calling your parents weekly, things you need plan for etc
+<br>
 
 **5. Future Log:** Take a step back, a breath the or two and look at the year ahead - what are those big trips, milestones you hope to get to that will bubble up from your daily little wins?
 
@@ -85,7 +81,9 @@ There's something invigorating about writing down your goals, revisiting those p
 If you're still not convinced let me highlight in a buzzed fashion the TOP 5 reasons you should Bullet Journal
 
 <br>
+
 ## **Benefits:**
+
 <br>
 
 **1. Stay on top of and accomplish your goals**

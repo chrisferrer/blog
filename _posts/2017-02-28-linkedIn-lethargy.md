@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LinkedIn Lethargy"
-date: 2017-02-28
+date: 2017-02-27
 categories:
   - Product
   - UX
@@ -23,17 +23,17 @@ Focusing on revenue steams, LinkedIn makes the majority of its revenue 58%, as o
 
 <br>
 
-1. New Fresh Look: It emotes a calming and sophisticated experience from the flat material design they are calling Art Deco, which makes some sense with the strong lines. However, for those art history buffs, it might seem like a bit of a misnomer. The colors LinkedIn uses emphasize its business focused brand, the blue engendering trust and leadership, or at least that’s what color theory tells me. All in all, the new layout is an enhanced aesthetic experience.
+**1. New Fresh Look:** It emotes a calming and sophisticated experience from the flat material design they are calling Art Deco, which makes some sense with the strong lines. However, for those art history buffs, it might seem like a bit of a misnomer. The colors LinkedIn uses emphasize its business focused brand, the blue engendering trust and leadership, or at least that’s what color theory tells me. All in all, the new layout is an enhanced aesthetic experience.
 
 ![LinkedIn Old Navigation Bar][2]
 
-2. Grab and Go Features: LinkedIn has made many of their valuable features even more prominent and easy to pinpoint by removing the old double navigation bars and combining them into a larger banner with larger cleaner icons.
+**2 Grab and Go Features:.** LinkedIn has made many of their valuable features even more prominent and easy to pinpoint by removing the old double navigation bars and combining them into a larger banner with larger cleaner icons.
 
 LinkedIn’s also improved some of its core tools like Jobs. Jobs posts are easy to filter such as finding people in your alumni network delivering more pertinent results. Though some features have been moved to paid tiers such as years of experience/seniority.
 
 ![LinkedIn Alumni Tool][3]
 
-3. Quick Stats: The left banner showing high-level stats is a nice addition for managing who’s viewed your profile and figuring out the size of your network, which in the past was quite hard to pin down.
+**3 Quick Stats:.** The left banner showing high-level stats is a nice addition for managing who’s viewed your profile and figuring out the size of your network, which in the past was quite hard to pin down.
 
 <br>
 
@@ -41,21 +41,22 @@ LinkedIn’s also improved some of its core tools like Jobs. Jobs posts are easy
 
 <br>
 
-1. Old Layout Nostalgia: The old layout featured drop down menus showing the 3 or 4 most recent notification, messages or jobs just by hovering over each ones’ corresponding icon. Currently, seeing any information about these pages requires one to load each page individually. These pages load slowly with a loading bar in the middle almost taunting you.
+
+**1. Old Layout Nostalgia:** The old layout featured drop down menus showing the 3 or 4 most recent notification, messages or jobs just by hovering over each ones’ corresponding icon. Currently, seeing any information about these pages requires one to load each page individually. These pages load slowly with a loading bar in the middle almost taunting you.
 
 ![LinkedIn Loading Bar][4]
 
 This adds a lot of friction as navigating to these pages can disrupt your job or talent search only to see an add disguised as a message, or notification about people in your network’s birthday. While this birthday feature might be helpful to reconnecting with people in your network, it feels a little too much like Facebook. In other words I would love to see the drop downs come back!
 
-2. Articles: When reading an article the navigation bar disappears. The goal, most likely, is to focus the user’s attention on the article. This is problematic when trying to navigate back to the person’s profile where you may have found the article, or if you’d like to see any page other than the homepage.
+**2. Articles:** When reading an article the navigation bar disappears. The goal, most likely, is to focus the user’s attention on the article. This is problematic when trying to navigate back to the person’s profile where you may have found the article, or if you’d like to see any page other than the homepage.
 
 ![LinekedIn Article][5]
 
-3. Glacial: After trying LinkedIn on a few different computers and Internet connections I find it loads quite slow across the board. The upside is it’s very responsive to different screens sizes across desktop, mobile, and tablet.
+**3. Glacial:** After trying LinkedIn on a few different computers and Internet connections I find it loads quite slow across the board. The upside is it’s very responsive to different screens sizes across desktop, mobile, and tablet.
 
-4. Messy Messaging: It appears LinkedIn is trying to emulate a more messenger focused experience like Facebook or WhatsApp. However, it can get very confusing as you accidentally write something rough, and see it sent after trying to add a space with enter.
+**4. Messy Messaging:** It appears LinkedIn is trying to emulate a more messenger focused experience like Facebook or WhatsApp. However, it can get very confusing as you accidentally write something rough, and see it sent after trying to add a space with enter.
 
-5. Collapsed Experience: Hiding people’s job experience puts an overemphasis on simply job titles and adds steps towards learning more about someone’s experience, which makes people less likely to do so, hurting all involved.
+**5. Collapsed Experience:** Hiding people’s job experience puts an overemphasis on simply job titles and adds steps towards learning more about someone’s experience, which makes people less likely to do so, hurting all involved.
 
 Also, gone are the days of rearranging your experience to emphasize a specific skill set or project. Everything is strictly chronological. A benefit is that it does add some uniformity.
 
