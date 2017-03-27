@@ -5,7 +5,7 @@ date: 2017-02-27
 categories:
   - Product
   - UX
-description:
+description: LinkedIn has recently beautified their look with a clean, crisp, and metallic layout. While the new look adds class it doesn’t fix many of the issues and complaints that most users voice. Rather, it adds new confusion to the UX flow, feels even slower than before, and I still don’t know where to find the alumni finder tool.
 image: https://unsplash.it/2000/1200/?image=1067
 image-sm: https://unsplash.it/500/300/?image=1067
 ---
