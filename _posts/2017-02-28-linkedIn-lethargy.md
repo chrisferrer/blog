@@ -59,7 +59,7 @@ This ads a lot of friction as navigating to these pages can disrupt your job or 
 
 4. Messy Messaging: It appears LinkedIn is trying to emulate a more messenger focused experience like Facebook or WhatsApp. However, it can get very confusing as you accidentally write something rough, and see it sent after trying to add a space with enter.
 
-5. __Collapsed Experience:__ Hiding people’s job experience with collapsed tabs puts an overemphasis on simply job titles and adds steps towards learning more about someone’s experience, which makes people less likely to do so, hurting all involved.
+5. Collapsed Experience: Hiding people’s job experience with collapsed tabs puts an overemphasis on simply job titles and adds steps towards learning more about someone’s experience, which makes people less likely to do so, hurting all involved.
 
 Also, gone are the days of rearranging your experience to emphasize a specific skill set or project. Everything is strictly chronological. A benefit is that it does add some uniformity.
 
