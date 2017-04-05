@@ -29,11 +29,13 @@ Focusing on revenue streams, LinkedIn makes the majority of its revenue 58%, as 
 
 2. **Grab and Go Features:** LinkedIn has made many of their valuable features even more prominent and easy to pinpoint by removing the old double navigation bars and combining them into a single larger banner with eye-catching icons.
 
+<br>
+
 LinkedIn’s also improved some of its core tools like Jobs. Job posts are easy to filter such as finding people in your alumni network thereby delivering more pertinent results. Though some features have been moved to paid tiers such as years of experience/seniority.
 
 ![LinkedIn Alumni Tool][3]
 
-**3. Quick Stats:.** The left banner shows high-level stats; a nice addition for managing who’s viewed your profile and figuring out the size of your network, which in the past was quite hard to pin down.
+3. **Quick Stats:** The left banner shows high-level stats; a nice addition for managing who’s viewed your profile and figuring out the size of your network, which in the past was quite hard to pin down.
 
 <br>
 
