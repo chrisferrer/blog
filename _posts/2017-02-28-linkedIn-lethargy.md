@@ -53,11 +53,11 @@ This ads a lot of friction as navigating to these pages can disrupt your job or 
 
 ![LinekedIn Article][5]
 
-**Glacial:** After trying LinkedIn on a few different computers and Internet connections I find it loads quite slow across the board. The upside is it’s very responsive to different screens sizes across desktop, mobile, and tablet.
+__Glacial:__ After trying LinkedIn on a few different computers and Internet connections I find it loads quite slow across the board. The upside is it’s very responsive to different screens sizes across desktop, mobile, and tablet.
 
-**Messy Messaging:** It appears LinkedIn is trying to emulate a more messenger focused experience like Facebook or WhatsApp. However, it can get very confusing as you accidentally write something rough, and see it sent after trying to add a space with enter.
+__Messy Messaging:__ It appears LinkedIn is trying to emulate a more messenger focused experience like Facebook or WhatsApp. However, it can get very confusing as you accidentally write something rough, and see it sent after trying to add a space with enter.
 
-**Collapsed Experience:** Hiding people’s job experience with collapsed tabs puts an overemphasis on simply job titles and adds steps towards learning more about someone’s experience, which makes people less likely to do so, hurting all involved.
+__Collapsed Experience:__ Hiding people’s job experience with collapsed tabs puts an overemphasis on simply job titles and adds steps towards learning more about someone’s experience, which makes people less likely to do so, hurting all involved.
 
 Also, gone are the days of rearranging your experience to emphasize a specific skill set or project. Everything is strictly chronological. A benefit is that it does add some uniformity.
 
