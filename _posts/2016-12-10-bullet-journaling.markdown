@@ -22,13 +22,13 @@ While writing your thoughts down requires work, it's worth it. By making it a li
 
 <br>
 
-1. Too much Clutter: You have too many Post It Notes scattered along your desk or in a myriad mess in your ideation station #human-centered-design.
+1. 1.Too much Clutter: You have too many Post It Notes scattered along your desk or in a myriad mess in your ideation station #human-centered-design.
 
 2. Endless todo lists: You have a to-do list to manage your to-do lists.
 
 3. Habits don't stick: You want to form a habit of practicing Machine Learning or FIFA (so you can finally make it to Division 1 and create your own Twitch channel), but can't seem to get it done.
 
-4. Missed opportunities and thoughts: You have too many brilliant buzzing thoughts that flit away. You want to follow up with that recruiter you ran into at boozy brunch. 
+4. Missed opportunities and thoughts: You have too many brilliant buzzing thoughts that flit away. You want to follow up with that recruiter you ran into at boozy brunch.
 
 5. Where'd all the time go!: Don't seem to have time to do the things you enjoy, follow through on the things your promise, etc.  
 
