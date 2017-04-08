@@ -51,6 +51,8 @@ This ads a lot of friction as navigating to these pages can disrupt your job or 
 
 ![LinekedIn Article][5]
 
+<br>
+
 3. **3. Glacial:** After trying LinkedIn on a few different computers and Internet connections I find it loads quite slow across the board. The upside is it’s very responsive to different screens sizes across desktop, mobile, and tablet.
 
 4. **4. Messy Messaging:** It appears LinkedIn is trying to emulate a more messenger focused experience like Facebook or WhatsApp. However, it can get very confusing as you accidentally write something rough, and see it sent after trying to add a space with enter.

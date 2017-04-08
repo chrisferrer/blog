@@ -17,7 +17,9 @@ Now I've promised the sky and you're feeling a little skeptical, wondering which
 While writing your thoughts down requires work, it's worth it. By making it a little more taxing you start to refine what is really worth writing down and avoid the word vomit that tends to happen with typing or peppering your wall with blue neon post-its. In a study by Pam Mueller and Daniel Oppenheimer they look at how taking notes by hand rather than a laptop allow you to retain information better and crystallize the most important concepts, making you more aware and present (obligatory ironic hashtag #mindfullness). Like note taking, Bullet Journaling will help you retain and recall your tasks, be more likely to circle back and complete them, ignoring the superfluous details.  
 
 <br>
+
 ## **The Pitch: Why Bullet Journal?**
+
 <br>
 
 1. **1. Too much Clutter:** You have too many Post It Notes scattered along your desk or in a myriad mess in your ideation station #human-centered-design.
@@ -33,21 +35,25 @@ While writing your thoughts down requires work, it's worth it. By making it a li
 If any of these speak to your soul then grab your moleskin, a fine tip pen, your pair of Warby Parker reading glasses, and a cup of nitro-cold brew Maui Red Rooster coffee. Because we're going to work on getting rid of the clutter, knocking out those to-dos, forming habits, and getting you some you time!
 
 <br>
+
 ## **So where do you start and what do you need:**
+
 <br>
 
 1. **1. Journal:** It doesn't have to be anything fancy, but some say black moleskin with grid pages is akin to acro-yoga nirvana. Some great brands to check out (a shame this blog isn't sponsored or this would be some prime product plugs):
 
-  * [Leuchtturm][2] - Comes with an Index, pre-written page numbers, and a date line atop each page
-  *  [Fabriano][3] EcoQua - Eco-Friendly with spirals to bring you back to those good old middle school dayz
-  *  [Moleskin][4] - Good Quality, nice feel, a little pricey. Maybe it's just me but I can't shake the thought that Moleskin Journals are made out of **moles**, even though they apparently aren't…
+2. a.__[Leuchtturm][2]__ - Comes with an Index, pre-written page numbers, and a date line atop each page
+3. b.__[Fabriano][3]__ EcoQua - Eco-Friendly with spirals to bring you back to those good old middle school dayz
+4. c.__[Moleskin][4]__ - Good Quality, nice feel, a little pricey. Maybe it's just me but I can't shake the thought that Moleskin Journals are made out of **moles**, even though they apparently aren't…
 
 2. **2. Pens:**
 
-  * **[Sakura Micron][5] -** I fell in love with Sakura from an early age, and haven't wavered even after flirting with [Staedtler][6] and [Uni][7].
+1. a.__[Sakura Micron][5]__ -** I fell in love with Sakura from an early age, and haven't wavered even after flirting with __[Staedtler][6]__ and __[Uni][7]__.
 
 <br>
+
 ## **Let's get to brass tacks. What's the layout?**
+
 <br>
 
 1. **1. An Index:** Your personal Table of Contents (e.g. Books, Product Management, Career Tips, etc) - you can note on which pages you mention these various topics.
@@ -60,19 +66,23 @@ If any of these speak to your soul then grab your moleskin, a fine tip pen, your
 3. **3. Daily Log:** From work you need to get done to how many cups of water you had to things you need to push to tomorrow
 
 <br>
+
 4. **4. Monthly Log:** Events, Goals, Calling your parents weekly, things you need plan for etc
+
 <br>
 
 5. **5. Future Log:** Take a step back, a breath the or two and look at the year ahead - what are those big trips, milestones you hope to get to that will bubble up from your daily little wins?
 
-For more information go to [BulletJournal][8] where they walk through the methods and modules in greater detail. Also check out [r/bulletjournal][9] for inspiration and some jealousy.
+For more information go to __[BulletJournal][8]__ where they walk through the methods and modules in greater detail. Also check out __[r/bulletjournal][9]__ for inspiration and some jealousy.
 
-There's something invigorating about writing down your goals, revisiting those past and upcoming milestones even if they're flossing for a week straight or deploying that personal website. For more info on habit forming check out [BrainPickings][10].
+There's something invigorating about writing down your goals, revisiting those past and upcoming milestones even if they're flossing for a week straight or deploying that personal website. For more info on habit forming check out __[BrainPickings][10]__.
 
 If you're still not convinced let me highlight in a buzzed fashion the TOP 5 reasons you should Bullet Journal
 
 <br>
+
 ## **Benefits:**
+
 <br>
 
 1. **1. Stay on top of and accomplish your goals**
