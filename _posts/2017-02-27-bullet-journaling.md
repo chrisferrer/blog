@@ -4,6 +4,7 @@ title: "Bullet Journaling"
 date: 2016-12-10
 categories:
   - Productivity
+
 description:
 image: https://unsplash.it/2000/1200?image=876
 image-sm: https://unsplash.it/500/300?image=876
