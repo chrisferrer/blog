@@ -10,11 +10,11 @@ title: Chris Ferrer's Blog
 description: Chris writes about Product, Music, and Food. He's a product manager at BlackRock helping people with automated investing for the future.
 url: "chrisferrer.me"
 twitter_username: verbosesilence
-default_img: "https://drive.google.com/file/d/18zgyJk579Ft4b3qJi0iD7lVXzDPN6UK1/view?usp=sharing"
+default_img: https://drive.google.com/file/d/18zgyJk579Ft4b3qJi0iD7lVXzDPN6UK1/view?usp=sharing
 
 # Profile settings
 name: Chris Ferrer
-profile_img: "https://drive.google.com/file/d/18zgyJk579Ft4b3qJi0iD7lVXzDPN6UK1/view?usp=sharing"
+profile_img: https://drive.google.com/file/d/18zgyJk579Ft4b3qJi0iD7lVXzDPN6UK1/view?usp=sharing
 profile: Chris grew up in Hawaii, and now lives in chilly San Francisco. A philosopher by trade, and a product manager by day at FutureAdvisor (a Blackrock company). He moonlights as an ahi poke chef and can be found watching the Chelsea Football Club weekends at the crack of dawn due to an unfortunate time difference from England.
 social:
   github: https://github.com/chrisferrer
