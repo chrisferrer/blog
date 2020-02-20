@@ -4,8 +4,8 @@ title: "BlueTooth Headphones - A Ranking"
 date: 2020-02-19
 categories:
   - Music
-	- headphones
-description:Article looking at the Sony WF-1000XM3, Master Dynamic MW07 Plus, and the Jabra Elite Active 65T wireless Bluetooth headphones. 
+  - Headphones
+description: Article looking at the Sony WF-1000XM3, Master Dynamic MW07 Plus, and the Jabra Elite Active 65T wireless Bluetooth headphones.
 image: https://source.unsplash.com/N1QwvJDvj4E/2000/1200
 image-sm: https://source.unsplash.com/N1QwvJDvj4E/500/300
 ---
