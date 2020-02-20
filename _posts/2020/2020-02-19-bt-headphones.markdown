@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "BT headphones"
+title: "Bluetooth Headphones - A Ranking"
 date: "2020-02-19 23:36"
 categories:
   - Music
