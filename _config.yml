@@ -32,10 +32,3 @@ permalink: /:year/:month/:day/:title/
 # Sass
 sass:
   style: compressed
-
-# Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
-
-# Plugins
-- jekyll-seo-tag
-- jekyll-sitemap
