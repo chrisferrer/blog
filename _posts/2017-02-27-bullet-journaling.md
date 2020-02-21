@@ -27,7 +27,7 @@ While writing your thoughts down requires work, it's worth it. By making it a li
 2. **Endless todo lists:** You have a to-do list to manage your to-do lists.
 3. **Habits don't stick:** You want to form a habit of practicing Machine Learning or FIFA (so you can finally make it to Division 1 and create your own Twitch channel), but can't seem to get it done.
 4. **Missed opportunities and thoughts:** You have too many brilliant buzzing thoughts that flit away. You want to follow up with that recruiter you ran into at boozy brunch.
-5. **5. Where'd all the time go!:** Don't seem to have time to do the things you enjoy, follow through on the things you promise, etc.  
+5. **Where'd all the time go!:** Don't seem to have time to do the things you enjoy, follow through on the things you promise, etc.  
 <br>
 If any of these speak to your soul then grab your moleskin, a fine tip pen, your Warby Parker reading glasses, and a cup of nitro-cold brew Maui Red Rooster coffee. Because we're getting rid of the clutter, knocking out those to-dos, forming habits, and getting you some you time!
 

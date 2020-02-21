@@ -27,11 +27,10 @@ These are a gorgeous pair of headphones, with a warm and full sound, that feel s
 ### The Great:
 #### Sound
 
-* Highs are nice and crisp. You’ll hear those high hats sparkle. The only downside is the highs feel too boosted, sibilant, shrill and slurred.
-* Very detailed - guitars, synths, and the xylophones sound especially nice in these. The Master Dynamic conjures a warmth that makes you want to put on that panda snuggie that you’re hi-key proud of and listen to Kaze No Torimichi by Joe Hisaishi (I’m telling you don’t sleep on that xylophone!)
+- Highs are nice and crisp. You’ll hear those high hats sparkle. The only downside is the highs feel too boosted, sibilant, shrill and slurred.
+- Very detailed - guitars, synths, and the xylophones sound especially nice in these. The Master Dynamic conjures a warmth that makes you want to put on that panda snuggie that you’re hi-key proud of and listen to Kaze No Torimichi by Joe Hisaishi (I’m telling you don’t sleep on that xylophone!)
 
 #### Fit
-
 
 * Hands down the most comfortable pair of in-ears I’ve triedThey have these silicon wings that help support the buds. After wearing them for only a few minutes, they melt away into my ear to the point I forget I’m wearing them.
 
