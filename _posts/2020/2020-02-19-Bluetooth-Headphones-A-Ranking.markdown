@@ -19,6 +19,7 @@ Bad jokes aside, I got my hands on a pair of the Jabra Elite Active 65T, Master 
 
 ## Master Dynamic MW07 Plus
 [MW07 PLUS True Wireless Earphones ](http://bit.ly/2V5WnN8)
+
 <img src="https://i.imgur.com/0LUSjWu.jpg" alt="MW07 Plus Headphones and Case"style="width:60%;height:80%;">
 
 These are a gorgeous pair of headphones, with a warm and full sound, that feel smooth, comfy, and light.
