@@ -19,7 +19,7 @@ Bad jokes aside, I got my hands on a pair of the Jabra Elite Active 65T, Master 
 
 ## Master Dynamic MW07 Plus
 [MW07 PLUS True Wireless Earphones ](http://bit.ly/2V5WnN8)
-![MW07 Plus Case](https://i.imgur.com/0LUSjWu.jpg "Logo Title Text 1")
+<img src="https://i.imgur.com/0LUSjWu.jpg" alt="MW07 Plus Headphones and Case"style="width:60%;height:80%;">
 
 These are a gorgeous pair of headphones, with a warm and full sound, that feel smooth, comfy, and light.
 
@@ -27,7 +27,6 @@ These are a gorgeous pair of headphones, with a warm and full sound, that feel s
 #### Sound
 
 * Highs are nice and crisp. You’ll hear those high hats sparkle. The only downside is the highs feel too boosted, sibilant, shrill and slurred.
-
 * Very detailed - guitars, synths, and the xylophones sound especially nice in these. The Master Dynamic conjures a warmth that makes you want to put on that panda snuggie that you’re hi-key proud of and listen to Kaze No Torimichi by Joe Hisaishi (I’m telling you don’t sleep on that xylophone!)
 
 #### Fit
@@ -38,7 +37,8 @@ These are a gorgeous pair of headphones, with a warm and full sound, that feel s
 
 #### Battery life
 * Is great clocking in at 10 hours—better than the Sonys at 6 and the Jabra at 7.5.
-[Out of the Box](https://i.imgur.com/mahFU9d.jpg)
+<img src="https://i.imgur.com/mahFU9d.jpg" alt="MW07 Plus Headphones Out of the Box with Cord and Ear Wings"style="width:90%;height:80%;">
+
 
 ### The Meh
 #### Noise Canceling
@@ -47,12 +47,14 @@ These are a gorgeous pair of headphones, with a warm and full sound, that feel s
 #### Sound Stage
 * It feels small, especially with classical music. But feels more natural than the Sony’s.
 
-![Box](https://i.imgur.com/VmSxbJv.jpg)
+<img src="https://i.imgur.com/VmSxbJv.jpg" alt="MW07 Plus Headphones, Case, and Box"style="width:60%;height:100%;">
+
 
 ## Sony WF-1000XM3
 [WF-1000XM3 Wireless Noise-Canceling Headphones with Bluetooth® | Sony | Sony US](http://bit.ly/39Jhucc)
 
-![Sony WF-1000XM3 Box](https://i.imgur.com/aLEScSx.jpg)
+<img src="https://i.imgur.com/aLEScSx.jpg" alt="Sony WF-1000XM3 Box"style="width:60%;height:100%;">
+
 I anxiously awaited this pair’s release, especially after how well-reviewed Sony’s WH-1000XM3 were.  While they’re bulky, they look sleek in black with the copper accent.
 
 ### The Good
@@ -62,7 +64,8 @@ I anxiously awaited this pair’s release, especially after how well-reviewed So
 #### Sound
 * Initially very flat and frankly boring. However, with the Sony Headphone app, you can add a lot more punch, and make them sound jaunty.
 
-![Out of the Box](https://i.imgur.com/T4IXLIj.jpg)
+<img src="https://i.imgur.com/T4IXLIj.jpg" alt="Sony WF-1000XM3 Case, Cord, and Ear Bud Tips"style="width:60%;height:100%;">
+
 
 ### The Meh
 
@@ -79,17 +82,18 @@ I anxiously awaited this pair’s release, especially after how well-reviewed So
 #### Case
 * It’s huge and not pocket-friendly. Not a big deal as you can just keep it in your bag, but the case also gets easily scratched.
 
-![Headphones and Case](https://i.imgur.com/7h6j2ki.jpg)
+<img src="https://i.imgur.com/7h6j2ki.jpg" alt="Sony WF-1000XM3 Headphones and Case"style="width:60%;height:100%;">
 
 ## Conclusion
 If you have the money I’d recommend the Master Dynamics. They sound incredible, fit great, and are perfect for the gym (apparently they have a partnership with Kevin Durant, because what athlete doesn’t need expensive earbuds?).  If you’re looking to spend less and twiddle with their app, the Sonys are a close second.
 
-![MW07 Plus](https://i.imgur.com/ZF0Eiac.png)
+<img src="https://i.imgur.com/ZF0Eiac.png" alt="MW07 Plus Special Edition Headphones and Case"style="width:60%;height:100%;">
 
 ## Looking Forward To:
 [Drop x THX Panda Headphones](http://bit.ly/2SVxrW7) , the  [Ananda-BT](http://bit.ly/39JhdGc) by Hifiman, and the Sony WF-1000XM4.
 
-[Playlist](https://i.imgur.com/VIzbW7i.png)
+<img src="https://i.imgur.com/VIzbW7i.png" alt="Cover Art for Headphone Auditioning Playlist"style="width:60%;height:100%;">
+
 ## Tracklist
 Listen to it on [ Tidal](http://bit.ly/2V4fOWw)  or [ Spotify](https://spoti.fi/2wmLg8a)
 
