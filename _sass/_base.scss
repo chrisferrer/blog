@@ -101,12 +101,42 @@ img {
   max-width: 100%;
 }
 
-ol, ul {
+ul.footer__social {
   margin: 0;
   padding: 0;
 
   list-style-type: none;
 }
+
+ul.profile__social {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+ul.cards {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+ul.tabs {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+li.preview {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+
 
 /**
  * Text Selection

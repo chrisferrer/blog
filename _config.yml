@@ -26,9 +26,10 @@ social:
 # Build settings
 include: ["_categories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
-markdown: kramdown
+markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-
-# Sass
-sass:
-  style: compressed
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
