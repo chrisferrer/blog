@@ -43,12 +43,27 @@ These are a gorgeous pair of headphones, with a warm and full sound, that feel s
 
 ### The Meh
 #### Noise Canceling
-* Not very good. Then again this is a complaint I have universally for all in-ear Bluetooth headphones. On the bright side they do still keep out a good amount of noise on your commute, subduing the buzzing San Francisco streets.
+* Not very good. Then again this is a complaint I have universally for all in-ear Bluetooth headphones. On the bright side, they do still keep out a good amount of noise on your commute, subduing the buzzing San Francisco streets.
 
 #### Sound Stage
 * It feels small, especially with classical music. But feels more natural than the Sony’s.
 
 <img src="https://i.imgur.com/VmSxbJv.jpg" alt="MW07 Plus Headphones, Case, and Box" style="width:60%;height:80%;">
+
+## Jabra Elite Active 65T
+[Jabra Elite Active 65t](http://bit.ly/2uXoEee)
+
+### The Good
+1. The fit is fantastic! They feel very secure and comfortable—great for the gym.
+2. Keeps out most noise
+3. Rapid charging adds 1.5 hours in about 15 minutes.
+
+### The Meh
+1. Sound
+   1. Muffled highs
+   1. The mids are damp, making voices sound hollow and far away
+   1. Muted bass  
+
 
 ## Sony WF-1000XM3
 [WF-1000XM3 Wireless Noise-Canceling Headphones with Bluetooth® | Sony | Sony US](http://bit.ly/39Jhucc)
@@ -59,7 +74,7 @@ I anxiously awaited this pair’s release, especially after how well-reviewed So
 
 ### The Good
 #### Noise Canceling
-* The Best noise canceling among the lot. The Sony’s beat out the Jabra and Master Dynamic, but not by much.
+* The Best noise-canceling among the lot. The Sony’s beat out the Jabra and Master Dynamic, but not by much.
 
 #### Sound
 * Initially very flat and frankly boring. However, with the Sony Headphone app, you can add a lot more punch, and make them sound jaunty.
@@ -87,7 +102,7 @@ If you have the money I’d recommend the Master Dynamics. They sound incredible
 <img src="https://i.imgur.com/ZF0Eiac.png" alt="MW07 Plus Special Edition Headphones and Case" style="width:60%;height:80%;">
 
 ## Looking Forward To:
-[Drop x THX Panda Headphones](http://bit.ly/2SVxrW7) , the  [Ananda-BT](http://bit.ly/39JhdGc) by Hifiman, and the Sony WF-1000XM4.
+[Drop x THX Panda Headphones](http://bit.ly/2SVxrW7), the [Ananda-BT](http://bit.ly/39JhdGc) by Hifiman, and the Sony WF-1000XM4.
 
 <img src="https://i.imgur.com/VIzbW7i.png" alt="Cover Art for Headphone Auditioning Playlist" style="width:60%;height:80%;">
 ## Tracklist
