@@ -3,7 +3,7 @@ layout: "post"
 title: "Bluetooth Headphones - A Ranking"
 date: "2020-02-19 23:36"
 categories:
-  - Music
+  - Productivity
   - Headphones
 description: Article looking at the Sony WF-1000XM3, Master Dynamic MW07 Plus, and the Jabra Elite Active 65T wireless Bluetooth headphones.
 image: https://source.unsplash.com/N1QwvJDvj4E/2000x1200
@@ -54,16 +54,15 @@ These are a gorgeous pair of headphones, with a warm and full sound, that feel s
 [Jabra Elite Active 65t](http://bit.ly/2uXoEee)
 
 ### The Good
-1. The fit is fantastic! They feel very secure and comfortable—great for the gym.
-2. Keeps out most noise
-3. Rapid charging adds 1.5 hours in about 15 minutes.
+* The fit is fantastic! They feel very secure and comfortable—great for the gym.
+* Keeps out most noise
+* Rapid charging adds 1.5 hours in about 15 minutes.
 
 ### The Meh
-1. Sound
-   1. Muffled highs
-   1. The mids are damp, making voices sound hollow and far away
-   1. Muted bass  
-
+* Sound
+   * Muffled highs
+   * The mids are damp, making voices sound hollow and far away
+   * Muted bass  
 
 ## Sony WF-1000XM3
 [WF-1000XM3 Wireless Noise-Canceling Headphones with Bluetooth® | Sony | Sony US](http://bit.ly/39Jhucc)
