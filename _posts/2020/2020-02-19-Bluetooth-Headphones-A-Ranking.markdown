@@ -9,7 +9,6 @@ description: Article looking at the Sony WF-1000XM3, Master Dynamic MW07 Plus, a
 image: https://source.unsplash.com/N1QwvJDvj4E/2000x1200
 image-sm: https://source.unsplash.com/N1QwvJDvj4E/500x300
 ---
-## Bluetooth Headphones
 
 Have you been looking for a great, not just mediocre, pair of Bluetooth earbuds? Good, me too!
 
