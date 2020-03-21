@@ -63,9 +63,9 @@ A powerful todo app combining my favorite aspects of Things 3 and Trello.
 
 ### Trying out some new Productivity apps
 
-1. [Coda](3) - I’ve heard rave reviews that this could be the everything app: notes, todos, project tracking, tables, teams, etc.  
-2. [Airtable](5) - been using this for a few months and I’m loving it. Thinking about building it out like Rick Klau did in [My Homegrown, Personal CRM - Medium](4), but Coda might change my mind…  
-3. [ClickUp](6) - another todo app trying to do everything even email and chat.
+1. [Coda][3] - I’ve heard rave reviews that this could be the everything app: notes, todos, project tracking, tables, teams, etc.  
+2. [Airtable[5] - been using this for a few months and I’m loving it. Thinking about building it out like Rick Klau did in [My Homegrown, Personal CRM - Medium][4], but Coda might change my mind…  
+3. [ClickUp][6] - another todo app trying to do everything even email and chat.
 
 ## Bear template hack with xCallbacks  
 A couple of templates I’m thinking about sharing:
@@ -75,7 +75,7 @@ A couple of templates I’m thinking about sharing:
 3. Informational Interviews ☕️- helpful ways to deeply engage and add value during coffee chats or calls
 
 ## The Productive Playlist
-For this one, I went for some lo-fi gems. Listen to it on [Tidal](7) or [Spotify](8).
+For this one, I went for some lo-fi gems. Listen to it on [Tidal][7] or [Spotify][8].
 
 **TrackList:** 💽
 
